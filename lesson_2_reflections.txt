@@ -1,0 +1,13 @@
+What happens when you need to initialize a repository? Why do you need to do
+it?
+
+Git creates the metadata for your repository, with no file tracked. Without 
+creating the metadata Git cannot work.
+
+How is the staging area different from the working directory and repository? 
+What value do you think it offers?
+
+The staging area is a list of files ready to be committed. Not all files in a 
+working directory will be commited, and a reposity is a logical concept--
+snapshots of all the commits that Git remembers. It allows you to add or remove
+files from the next commit.
