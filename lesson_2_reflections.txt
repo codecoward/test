@@ -11,3 +11,9 @@ The staging area is a list of files ready to be committed. Not all files in a
 working directory will be commited, and a reposity is a logical concept--
 snapshots of all the commits that Git remembers. It allows you to add or remove
 files from the next commit.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+You can add the modified files per commit to the staging area. If they are not 
+added they will not be commited.
