@@ -27,3 +27,10 @@ breaking the master code.
 How do the diagrams help you visualize the branch structure?
 
 It helps you too see which nchanged are part of which branch.
+
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+
+The two branches combine. The graph shows the changes visible from the merged 
+branch.
+
