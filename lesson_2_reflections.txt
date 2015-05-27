@@ -17,3 +17,9 @@ change?
 
 You can add the modified files per commit to the staging area. If they are not 
 added they will not be commited.
+
+What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+
+Branches help you to fork project and experiment with the code without 
+breaking the master code.
