@@ -34,3 +34,7 @@ the diagram the way we do?
 The two branches combine. The graph shows the changes visible from the merged 
 branch.
 
+What are the pros and cons of Git's automatic merging vs. always doing merges 
+manually?
+
+Easy vs hard, saves time.
