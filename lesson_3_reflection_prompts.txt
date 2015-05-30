@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping
+all your files local?
+
+When you don't have Git or access to an editor on the machine you
+are working on.
