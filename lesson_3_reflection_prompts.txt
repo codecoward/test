@@ -28,3 +28,9 @@ what would be harder?
 
 Without Git or GitHub you would have to manage merges manually. Git makes it 
 easier.
+
+When would you want to make changes in a seperate branch rather than 
+directly in master? What benefits does each approach have?
+
+When you are working with others seperate branches and pull requesrts preserve 
+a woerking master. When working along a direct push into master is easier.
