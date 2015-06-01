@@ -19,5 +19,12 @@ copies a repository, local or remote. There are multiple branches in a
 repository that allows you to experiment with working code.
 
 What is the benefit of having a copy of the last known state of the remote
-stored locally.
+stored locally?
+
 It allows you to merge changes when the branches automatically diverge.
+
+FHow would you collaborate without Git or GitHub? What would be easier, and 
+what would be harder?
+
+Without Git or GitHub you would have to manage merges manually. Git makes it 
+easier.
